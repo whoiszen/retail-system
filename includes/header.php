@@ -62,4 +62,4 @@
     </div>
 
     <!-- PAGE CONTENT STARTS -->
-    <div class="page-content"></div>
+    <div class="page-content">
